@@ -1,6 +1,6 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
 
-Approach:
+**Approach:**
 1. Install the required packages: You will need to install Python, Streamlit,
 easyOCR, and a database management system like SQLite or MySQL.
 2. Design the user interface: Create a simple and intuitive user interface using
